@@ -2,7 +2,7 @@
 
 Deep Learning Course Submission
 
-See full report [HERE]()
+See full report [HERE](https://github.com/mbdelaresma/automated-parking-management-computer-vision/blob/main/Technical_Report.ipynb)
 
 ![image](https://user-images.githubusercontent.com/71246479/188299598-ab431713-b792-4fc4-9d1c-86babd4819db.png)
 
